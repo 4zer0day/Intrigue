@@ -7,4 +7,4 @@ Just like you
 
 You can intergrate this with your Telegram bot for daily notification 
 
-![alt text](https://github.com/4zer0day/intrigue/images/Telegram.JPG)
+![](images/Telegram.JPG)
