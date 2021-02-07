@@ -3,6 +3,10 @@ random words of widsom created with node js
 
 created by @icyurei or @ikxmleo [4zer0day]
 
+donate me some ETH
+
+0xa01A95878447dfbCdb47d85ed6898C1d241Af5d6⠀
+
 You can intergrate this with your Telegram bot for daily notification 
 
 //Example inside Telegram bot
