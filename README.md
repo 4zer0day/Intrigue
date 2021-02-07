@@ -1,5 +1,6 @@
 # intrigue
 random words of widsom created with node js 
+created by @icyurei or @ikxmleo [4zer0day]
 
 You can intergrate this with your Telegram bot for daily notification 
 
