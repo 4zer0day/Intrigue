@@ -1,5 +1,5 @@
 # intrigue
-random words of widsom created with node js 
+[Intrigue] is a RESTful API which will produce a random words of wisdom created with Node js
 
 created by @icyurei or @ikmxleo [4zer0day]
 
