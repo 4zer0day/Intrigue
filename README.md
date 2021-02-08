@@ -1,7 +1,7 @@
 # intrigue
 random words of widsom created with node js 
 
-created by @icyurei or @ikxmleo [4zer0day]
+created by @icyurei or @ikmxleo [4zer0day]
 
 donate me some ETH
 
